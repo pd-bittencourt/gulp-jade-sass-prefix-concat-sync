@@ -28,5 +28,8 @@
     "concat",
     "browsersync"
   ],
+  "bugs": {
+    "url": "https://github.com/quanticbuda/gulp-jade-sass-prefix-concat-sync/issues"
+  },
   "homepage": "https://github.com/quanticbuda/gulp-jade-sass-prefix-concat-sync"
 }
