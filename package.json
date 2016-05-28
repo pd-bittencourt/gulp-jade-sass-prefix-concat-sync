@@ -1,0 +1,27 @@
+{
+  "name": "browser-sync-jade-sass-concat",
+  "version": "0.0.0",
+  "description": "A starter project including full setup for GulpJS, Jade, SASS, Autoprefixer, Concat &amp; BrowserSync",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Bittencourt",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.12.10",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-sass": "^2.3.1"
+  },
+  "keywords": [
+    "gulp",
+    "jade",
+    "sass",
+    "autoprefixer",
+    "concat",
+    "browsersync"
+  ],
+}
